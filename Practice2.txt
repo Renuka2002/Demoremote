@@ -1,1 +1,2 @@
-This is my practice
+This is my practice 
+Practice for merge conflict
