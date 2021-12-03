@@ -1,2 +1,4 @@
 This is my practice 
 Practice for merge conflict
+This is my practice
+Modifing this file
